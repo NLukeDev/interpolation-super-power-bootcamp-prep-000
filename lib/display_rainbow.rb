@@ -3,31 +3,7 @@ def display_rainbow (colors)
   
  colors = ['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'] 
   
-puts "R: #{colors[0]}, O: #{colors[1]}, Y:#{colors[2]}, G: #{colors[3]}, B: #{colors[4]},  "
+puts "R: #{colors[0]}, O: #{colors[1]}, Y:#{colors[2]}, G: #{colors[3]}, B: #{colors[4]}, I: #{colors[5]}, 6: #{colors[6]}  "
 end
 
 
-
-R: red
-O: orange
-Y: yellow
-G: green
-B: blue
-I: Indigo
-V: violet 
-
-display_rainbow(['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'])
-
-
-
-bob_name           = "Bob"
-bob_age            = 46
-bob_occupation     = "Juggler"
-stefani_name       = "Stefani"
-stefani_age        = 49
-stefani_occupation = "Firefighter"
- 
-puts "Name: #{bob_name}, Age: #{bob_age}, Occupation: #{bob_occupation}"
-
-puts "Name: #{stefani_name}, Age: #{stefani_age}, Occupation:
-#{stefani_occupation}"
